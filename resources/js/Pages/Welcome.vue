@@ -155,7 +155,7 @@ function handleImageError() {
                                     </g>
                                 </svg>
                             </div>
-
+<prueba></prueba>
                             <div class="pt-3 sm:pt-5">
                                 <h2 class="text-xl font-semibold text-black dark:text-white">Vibrant Ecosystem</h2>
 
